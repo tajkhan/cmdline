@@ -26,7 +26,12 @@
 	- list all the files in /usr/bin
 	- list the files
 	- move to your home directory and create a directory called dummy.
-		inside dummy create a structure like this:
-	![Directory Structure](/s01_dirs.png)
+		inside dummy create a structure like this:  
+	![Directory Structure](./s02_dirs.png)
 
-	go to directory dummy.
+	- go to directory subdub. use absolute paths.
+	- without moving from subdub, copy the file f2.doc from subdub to sub. use absolute paths.
+	- without moving from subdub, copy the file f2.doc from subdub to sub. use relative paths.
+	- without moving from subdub, copy the file dummy.py from mub to subsub. use absolute paths.
+	- without moving from subdub, copy the file dummy.py from mub to subsub. use relative paths.
+	- go to the folder dub. move the file filter.txt to dummy.
