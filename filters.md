@@ -2,9 +2,17 @@
 ## Discovering files contents
 
 ## Topics covered
-1. File content
+1. Command structure
+	- cmdname [cmd_options] [cmd_arguments]
 
-2. Commands
+2. Manual Pages
+	- man command
+	- navigating man pages
+	- searching in a man page
+
+3. File content
+
+4. Commands
 	- file
 	- wc
 	- cat
