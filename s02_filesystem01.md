@@ -7,10 +7,11 @@
 	- Directory:
 	- File system hierarchy.
 2. Paths.
-	- Absolute path.
-	- Relative path.
-	- Home.
-	- Current directory/Working directory.
+	- Absolute path
+	- Relative path
+	- Home (~)
+	- Current directory/Working directory (.)
+	- Parent directory (..)
 3. Commands:
 	- pwd
 	- cd
@@ -35,3 +36,4 @@
 	- without moving from subdub, copy the file dummy.py from mub to subsub. use absolute paths.
 	- without moving from subdub, copy the file dummy.py from mub to subsub. use relative paths.
 	- go to the folder dub. move the file filter.txt to dummy.
+	- go to your home directory
