@@ -20,3 +20,9 @@
 	- date
 	- who
 	- whoami
+
+8. References
+	- Terminals, etc:  
+	[terminals, consoles, origins](https://www.baeldung.com/linux/terminal-shell-tty-vs-console)  
+	[terminals vs tty vs shell vs console](https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con)  
+	[TTY demystified](http://www.linusakesson.net/programming/tty/)  
