@@ -6,6 +6,7 @@ A series of lessons introducing BASH and Linux command line to beginners.
 [Session 02 - File System: manipulating files and directories.](s02_filesystem01.md)  
 [Session 03 - Getting help. Manipulating multiple files.](s03_man_globbing.md)  
 [Session 04 - Knowing the SHELL enironment.](s04_shell_environment.md)  
+[Session 05 - Command line editing using vim.](s05_cmdline_editing.md)  
 
 ## References:
 These lessons are inspired from and make use of:  
