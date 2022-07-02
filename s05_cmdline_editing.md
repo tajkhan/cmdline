@@ -33,3 +33,4 @@ X. Refrences
 2. [learn vim progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 3. [vim adventures](https://vim-adventures.com/)
 4. Google 'vim cheatsheet'. Print one you like and paste it on your desk.
+5. [Zen Clavier](https://gist.github.com/ckunte/fec13e3257bfb2289a98a7181e67c656)
