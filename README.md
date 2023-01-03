@@ -21,10 +21,13 @@ These lessons are inspired from and make use of:
 
 
 ## Further References
-X. [Bash guide](https://mywiki.wooledge.org/BashGuide)
-X. [Understanding bash](https://www.linuxjournal.com/content/understanding-bash-elements-programming)
+X. [Bash guide](https://mywiki.wooledge.org/BashGuide)  
+X. [Understanding bash](https://www.linuxjournal.com/content/understanding-bash-elements-programming)  
 X. [10 things I wish I knew about bash](https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/)
-X. [Bash game](https://gitlab.com/slackermedia/bashcrawl)
-X. [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
-X. [Cmd line wizardry](https://arstechnica.com/gadgets/2021/08/linux-bsd-command-line-101-using-awk-sed-and-grep-in-the-terminal/)
-X. [Cmd line wizardry - II](https://arstechnica.com/gadgets/2021/09/command-line-wizardry-part-two-variables-and-loops-in-bash/)
+X. [Bash game](https://gitlab.com/slackermedia/bashcrawl)  
+X. [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)  
+X. [Cmd line wizardry](https://arstechnica.com/gadgets/2021/08/linux-bsd-command-line-101-using-awk-sed-and-grep-in-the-terminal/)  
+X. [Cmd line wizardry - II](https://arstechnica.com/gadgets/2021/09/command-line-wizardry-part-two-variables-and-loops-in-bash/)  
+X. [The art of command line](https://github.com/jlevy/the-art-of-command-line)  
+X. [Explain shell](https://explainshell.com/)  
+X. [Cheat.sh](http://cheat.sh/)  
